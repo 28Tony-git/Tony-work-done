@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 1/2rem;
+    box-sizing: content-box;
+    box-shadow: inset;
+}
+
+ul {
+    list-style: none;
+    line-height: normal;
+}
+
+ol {
+    list-style: none;
+    lighting-color: rgb(177, 61, 12);
+}
+
+li {
+    list-style: none;
+    list-style-position: initial;
+}
